@@ -1,6 +1,6 @@
-/*------ Arduino Fire Fighting Robot Code by hobby project---- */
 
-#include <Servo.h>  //include servo.h library
+
+#include <Servo.h>  
 Servo myservo;
 
 int pos = 0;   
